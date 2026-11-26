@@ -1,0 +1,39 @@
+{
+  "Name": "Realistic Gore",
+  "Author": "wecan",
+  "Description": "Hi-res painted wounds, real holes, organs, broken bones, bruising, blood loss and decay. Adds Realistic Human (Old, New, Female) and a Gore Settings panel.",
+  "ModVersion": "1.2",
+  "GameVersion": "1.27",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "RealisticGore.cs",
+    "GoreSettings.cs",
+    "GoreSettingsUI.cs",
+    "RealisticHuman.cs",
+    "BodyShape.cs",
+    "SkinLifelike.cs",
+    "Crater.cs",
+    "CraterWounds.cs",
+    "CraterEffects.cs",
+    "CraterOrgans.cs",
+    "CraterPieces.cs",
+    "CraterNeck.cs",
+    "CraterHealing.cs",
+    "SoftSkin.cs",
+    "Blood.cs",
+    "JointSkin.cs",
+    "FleshHuman.cs",
+    "Organs.cs",
+    "OrganPieces.cs",
+    "Acting.cs",
+    "Bombs.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null,
+  "AssemblyName": null
+}

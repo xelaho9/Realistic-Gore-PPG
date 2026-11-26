@@ -1,0 +1,11 @@
+Copyright (c) 2026 xelaho9. All rights reserved.
+
+You may download and use this mod in your own game, and show it in videos and streams.
+
+You may NOT, without written permission from xelaho9:
+- re-upload or redistribute this mod or any part of it
+- copy, modify or reuse its code, textures or assets in other mods or projects
+- claim it as your own work
+- sell it or put it behind a paywall
+
+Source: https://github.com/xelaho9/Realistic-Gore-PPG
